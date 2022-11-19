@@ -7,13 +7,14 @@
 
 I'm Jerus, a software engineer that focuses on Front-End Web development.
 
-I'm a person with many interests due to my curious mind.
-
-As for my hobbies, I explore the internet, watching movies, playing video games and spending some time with my partner and my dog.
-
-I also explore different technologies around web development and implement what I learned in my personal projects.
+I also explore different technologies around web dev and implement it on my personal projects.
 
 I'm an INTP kind of person, tho I value my reserved personality, I also love having interesting conversations.
+
+## Want to connect? Let's talk over coffee:
+
+<a href="https://www.buymeacoffee.com/first" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerus-aquino/)
 
 # Tech Stack:
 
@@ -45,19 +46,6 @@ I'm an INTP kind of person, tho I value my reserved personality, I also love hav
 [![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/#overview)
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
-## Other Technologies & Tools
-
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ph/windows/)
-[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-## Want to connect? Let's talk over coffee:
-
-<a href="https://www.buymeacoffee.com/first" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerus-aquino/)
 
 ---
 
