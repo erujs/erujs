@@ -7,7 +7,7 @@
 
 I'm Jerus, a software engineer that focus on front-end web development.
 
-I'm an INTP kind of person, tho I value my reserved personality but I love interesting conversations.
+I'm an INTP kind of person but I love having interesting conversations.
 
 ## Want to connect? Let's talk over coffee:
 
