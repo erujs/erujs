@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGVrbogVpQmhA/profile-displaybackgroundimage-shrink_350_1400/0/1656187895125?e=1674086400&v=beta&t=2JRHtKDHlYuG8bDXdasaBGHfksPYmAFh2x9J_4ckRnQ" alt="react" style="width:100%;" />
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGVrbogVpQmhA/profile-displaybackgroundimage-shrink_350_1400/0/1656187895125?e=1674086400&v=beta&t=2JRHtKDHlYuG8bDXdasaBGHfksPYmAFh2x9J_4ckRnQ" alt="react" style="width:100%;" /> -->
 
 > <h3>"Docendo discimus; by teaching, we learn."</h3>
 
