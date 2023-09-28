@@ -1,8 +1,5 @@
-<!-- <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGVrbogVpQmhA/profile-displaybackgroundimage-shrink_350_1400/0/1656187895125?e=1674086400&v=beta&t=2JRHtKDHlYuG8bDXdasaBGHfksPYmAFh2x9J_4ckRnQ" alt="react" style="width:100%;" /> -->
-
 > <h3>"Docendo discimus; by teaching, we learn."</h3>
 
-  
 # Hi there 👋
 
 I'm Jerus, a software engineer that focus on front-end web development.
@@ -11,7 +8,8 @@ I'm an INTP kind of person but I love having interesting conversations.
 
 ## Want to connect? Let's talk over coffee:
 
-<a href="https://www.buymeacoffee.com/first" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/erujs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerus-aquino/)
 
 # Tech Stack:
@@ -39,6 +37,10 @@ I'm an INTP kind of person but I love having interesting conversations.
 [![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://dev.azure.com/)
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/)
+
+---
+
+[![An image of @erujs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erujs)](https://holopin.io/@erujs)
 
 ---
 
