@@ -1,6 +1,6 @@
 > <h3>"Docendo discimus; by teaching, we learn."</h3>
 
-# Hi there 👋
+# Hello there 👋
 
 I'm Jerus, a software engineer that focus on front-end web development.
 
