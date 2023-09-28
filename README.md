@@ -44,7 +44,7 @@ I'm an INTP kind of person but I love having interesting conversations.
 
 ---
 
-![Jerus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eru-js&count_private=true&show_icons=true&hide_border_true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eru-js&layout=compact&langs_count=7&hide_border_true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Jerus' GitHub stats](https://github-readme-stats.vercel.app/api?username=erujs&count_private=true&show_icons=true&hide_border_true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erujs&layout=compact&langs_count=7&hide_border_true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eru-js&style=for-the-badge&color=008080)
