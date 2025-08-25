@@ -52,7 +52,7 @@ Always open to chatting about tech, design, or new ideas. Let’s connect:
 
 ## Github Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erujs&area=true&hide_border=true&custom_title=Contribution%20Graph&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erujs&area=true&hide_border=true&days=39&custom_title=Contribution%20Graph&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Profile Views](https://komarev.com/ghpvc/?username=erujs&style=for-the-badge&color=008080)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <div align="right">
