@@ -1,50 +1,60 @@
-> <h3>"Docendo discimus; by teaching, we learn."</h3>
+# 👋 Hello World! I’m Jerus  
 
-# Hello there 👋
+I’m a **Senior Software Engineer** specializing in **Web Development**,  
+passionate about building intuitive front-end experiences and crafting tools that make development smoother.  
 
-I'm Jerus, a software engineer that focus on front-end web development.
+As an **INTP**, I love exploring ideas, solving complex problems, and having thoughtful conversations.  
+My background has given me a versatile skill set that enables me to transform UI/UX designs into modern, responsive web applications.  
 
-I'm an INTP kind of person but I love having interesting conversations.
+Always open to chatting about tech, design, or new ideas. Let’s connect:  
 
-## Want to connect? Let's talk over coffee:
-
-<a href="https://www.buymeacoffee.com/erujs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerus-aquino/)
+[![gmail;](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.m.jerus+dotdev@gmail.com)
 
-# Tech Stack:
+## Tech Stack:
+<!-- languages -->
 
-## Languages
-
+[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<!-- python -->
+
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-
-## Frameworks & Library
-
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![materialui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 
-## Cloud
+<!-- react -->
 
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://dev.azure.com/)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
+[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
+
+<!-- styling/components -->
+
+[![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![shadcn ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+
+<!-- cloud -->
+
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/)
 
----
+## Holopin Badges
 
 [![An image of @erujs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erujs)](https://holopin.io/@erujs)
 
----
+## Github Stats
 
-![Jerus' GitHub stats](https://github-readme-stats.vercel.app/api?username=erujs&count_private=true&show_icons=true&hide_border_true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erujs&layout=compact&langs_count=7&hide_border_true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erujs&area=true&hide_border=true&custom_title=Contribution%20Graph&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Profile Views](https://komarev.com/ghpvc/?username=erujs&style=for-the-badge&color=008080)](https://github.com/antonkomarev/github-profile-views-counter)
 
-![Profile Views](https://komarev.com/ghpvc/?username=eru-js&style=for-the-badge&color=008080)
+<div align="right">
+  <em>"Fueled by coffee, anime, and my endless game backlog | Docendo discimus; by teaching, we learn."</em>
+</div>
