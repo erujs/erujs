@@ -30,7 +30,6 @@ Always open to talk about tech, design, or new ideas. Let’s connect:
 [![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![react router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
 
 <!-- styling/components -->
 
