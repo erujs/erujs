@@ -51,6 +51,11 @@ Always open to talk about tech, design, or new ideas. Let’s connect:
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/)
 
+<!-- ai -->
+
+[![claude code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/product/claude-code))
+[![github copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot))
+
 ## Holopin Badges
 
 [![An image of @erujs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erujs)](https://holopin.io/@erujs)
