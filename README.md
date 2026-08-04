@@ -53,8 +53,8 @@ Always open to talk about tech, design, or new ideas. Let’s connect:
 
 <!-- ai -->
 
-[![claude code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/product/claude-code))
-[![github copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot))
+[![claude code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/product/claude-code)
+[![github copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 ## Holopin Badges
 
