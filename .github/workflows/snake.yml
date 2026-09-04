@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MYTAditya
+          outputs: profile/github-snake-dark.svg?palette=gitlab-dark&color_snake=lime
+
+      - name: Commit and push SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update snake animation"
+          branch: main
+          file_pattern: "profile/github-snake-dark.svg"
