@@ -63,6 +63,7 @@ Always open to talk about tech, design, or new ideas. Let’s connect:
 ## Github Stats
 
 ![GitHub Activity](./profile/activity-graph.svg)
+![GitHub Snake](./profile/github-snake-dark.svg)
 [![Profile Views](https://komarev.com/ghpvc/?username=erujs&style=for-the-badge&color=008080)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <div align="right">
