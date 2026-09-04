@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: MYTAditya
+          github_user_name: erujs
           outputs: profile/github-snake-dark.svg?palette=gitlab-dark&color_snake=lime
 
       - name: Commit and push SVG
