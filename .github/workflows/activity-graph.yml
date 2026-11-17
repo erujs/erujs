@@ -1,8 +1,8 @@
-name: Update Activity Graph
+name: Update Profile SVGs
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1-6"
   workflow_dispatch:
 
 permissions:
@@ -11,10 +11,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
@@ -24,9 +23,14 @@ jobs:
           output_path: profile/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push activity graph
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
-          commit_message: "chore: update activity graph SVG"
+          github_user_name: erujs
+          outputs: profile/github-snake-dark.svg?palette=gitlab-dark&color_snake=teal
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile SVGs"
           branch: main
-          file_pattern: "profile/activity-graph.svg"
+          file_pattern: "profile/*.svg"
